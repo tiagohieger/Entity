@@ -2,6 +2,10 @@ package br.com.filters;
 
 import java.io.Serializable;
 
+/**
+ * 
+ * @author Richeli Vargas
+ */
 public class EntityFilter implements Serializable {
 
     private static final long serialVersionUID = 5056016738249309155L;
